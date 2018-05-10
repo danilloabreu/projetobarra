@@ -1,0 +1,30 @@
+svg{
+    border: 1px solid black;
+    width: 95%;
+}
+
+.vendido{
+  fill: red!important;  
+}
+
+.disponivel{
+  fill: white!important;  
+}
+
+.proposta{
+  fill: yellow!important;  
+}
+
+div.ui-tooltip {
+    width: auto;
+    min-width: 20em;
+}
+.content{
+    width: 100%;
+}
+
+.buttons{
+    position: fixed;
+    left:50%;
+    top:10%;
+}
